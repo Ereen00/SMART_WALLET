@@ -1,0 +1,24 @@
+{
+  "borclar": [
+    {
+      "arkadas": "example_person",
+      "borc": 0
+    },
+    {
+      "arkadas": "example_person",
+      "borc": 0
+    },
+    {
+      "arkadas": "example_person",
+      "borc": 0
+    }
+  ],
+  "kayıtlar": [
+    {
+      "arkadas": "example_person",
+      "fiyat": "example_amount",
+      "açıklama": "<av> example_description",
+      "tarih": "example_date"
+    }
+  ]
+}
